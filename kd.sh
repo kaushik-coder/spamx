@@ -50,9 +50,8 @@ echo -e '
       ░ ░▒  ░ ░░▒ ░       ▒   ▒▒ ░░  ░      ░░░   ░▒ ░
       ░  ░  ░  ░░         ░   ▒   ░      ░    ░    ░  
             ░                 ░  ░       ░    ░    ░  ' 
-echo -e "                  \e[92m >\e[93m By Noob Hackers \e[92m<"
-echo -e "               \e[92m>\e[93m github.com/noob-hackers \e[92m<"
-echo -e "               \e[92m >\e[91m YOUTUBE:-\e[92mNOOB HACKERS \e[92m<"
+echo -e "                  \e[92m >\e[93m By Kaushik \e[92m<"
+echo -e "               \e[92m>\e[93m github.com/kaushik-coder \e[92m<"
 echo
 }
 men(){
@@ -191,7 +190,7 @@ echo -e "
      \e[91m █\e[96m ▄\e[91m▀█  █▀\e[96m▄ \e[91m█
      ▐▌           ▌  
      █▌▀▄  ▄▄  ▄▀▐█
-    ▐██  ▀▀  ▀▀  ██▌   SPAMX \e[91mV.1\e[92m BY NOOB HACKERS\e[91m
+    ▐██  ▀▀  ▀▀  ██▌   SPAMX \e[91mV.1\e[92m BY Kaushik\e[91m
    ▄████▄   ▌  ▄████▄
 \e[0m"
 echo
@@ -240,7 +239,7 @@ echo -e "\e[93m
         ┃           ┃     \e[91m REMAINING-\e[92m["$remn"] \e[93m
         ┃\e[34m"$mob"\e[93m ┃ \e[93m Press \e[91mCtrl+C\e[93m To Stop
         ┃           ┃ --------------------------
-        ┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/9113948054
+        ┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/8119030611
         ╰━━━━━━━━━━━╯
 "
 curl -L -s "http://mobicomm.dove-sms.com//submitsms.jsp?user=Justlook&key=e9c5f59940XX&mobile=$mob&message=$test&senderid=CLNEXT&accusage=1" > utis.txt
@@ -423,7 +422,7 @@ echo -e "\e[93m
         ┃           ┃ 
         ┃\e[34m"$num"\e[93m ┃ \e[93m Press \e[91mCtrl+C\e[93m To Stop
         ┃           ┃ --------------------------
-        ┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/9113948054
+        ┃━━━━━○━━━━━┃ \e[96mDEVELOPER:\e[93mwa.me/8119030611
         ╰━━━━━━━━━━━╯
 "
 killall -9 php >/dev/null 2>&1 
